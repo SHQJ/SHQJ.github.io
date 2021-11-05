@@ -1,0 +1,155 @@
+.skx0{
+    width: 100%;
+    /* height: 40px; */
+    margin: 15px 2px;
+    border: 1px solid #000000;
+    color: #ffff;
+    text-align: center;
+    font-weight: 550;
+    cursor: pointer;
+    border-radius: 5%;
+}
+
+/* 00000000 */
+    .aa1 {
+        width: 100px;
+        height: 100px;
+        border: 2px solid #fff;
+        color: #ffff;
+        display: flex;
+        /* flex-direction: column-reverse; */
+        align-items: center;
+        float: left;
+        margin: 10px;
+        border-radius: 10%;
+    }
+
+    .bb2 {
+        width: 100px;
+        height: 30px;
+        text-align: center;
+        line-height: 30px;
+        /* color: #000000; */
+        font-weight: 700;
+        text-shadow: 0 0 5px #000000;
+
+    }
+
+    .cc3 {
+        width: 100px;
+        height: 30px;
+        text-align: center;
+        line-height: 30px;
+        display: none;
+        cursor: pointer;
+        text-shadow: 0 0 8px #000000;
+    }
+
+    .dd4 {
+        width: 100px;
+        height: 30px;
+        text-align: center;
+        line-height: 25px;
+        display: none;
+    }
+    #colortext {
+        display: none;
+    }
+/* 000000000000 */
+.skcolor{
+    width: 80%;
+    margin: 0 auto;
+}
+#red0 .bb2{
+    color: #ffffff;
+}
+#blue0{
+    color: #ffffff;
+    display: none;
+}
+#pink0{
+    color: #ffffff;
+    display: none;
+}
+#purple0{
+    color: #ffffff;
+    display: none;
+}
+#indigo0{
+    color: #ffffff;
+    display: none;
+}
+#cyan0{
+    color: #ffffff;
+    display: none;
+}
+#green{
+    color: #ffffff;
+    display: none;
+}
+#yellow0{
+    color: #ffffff;
+    display: none;
+}
+#brown0{
+    color: #ffffff;
+    display: none;
+}
+#grey0{
+    color: #000000;
+    display: none;
+}
+#black0{
+    color: #ffffff;
+    display: none;
+}
+#white0{
+    color: #000000;
+    display: none;
+}
+/* 选项卡 */
+.active{
+    background-color: #fff;
+    /* color: #000000; */
+    text-shadow: 0 0 10px #fff;
+    box-shadow: 0 0 20px #fff;
+    /* 发光 */
+}
+.skx0red{
+    background-color: #F44336;
+}
+.skx0pink{
+    background-color: #E91E63;
+}
+.skx0purple{
+    background-color: #673AB7;
+}
+.skx0indigo{
+    background-color: #3F51B5;
+}
+.skx0blue{
+    background-color: #2196F3;
+}
+.skx0cyan{
+    background-color: #00BCD4;
+}
+.skx0green{
+    background-color: #4CAF50;
+}
+.skx0yellow{
+    background-color: #FFEB3B;
+    color: #3E2723;
+}
+.skx0brown{
+    background-color: #795548;
+}
+.skx0grey{
+    background-color: #adb5bd;
+}
+.skx0black{
+    background-color: #0b090a;
+}
+.skx0white{
+    background-color: #ffffff;
+    color: #0b090a;
+}
